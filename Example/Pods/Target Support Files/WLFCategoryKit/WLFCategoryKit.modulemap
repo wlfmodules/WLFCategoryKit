@@ -1,0 +1,6 @@
+framework module WLFCategoryKit {
+  umbrella header "WLFCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - WLFCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - WLFCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  WLFCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WLFCategoryKit: 01f2520422c9f1ba01220428175a18cbd053ccfe
+
+PODFILE CHECKSUM: 22688d11a1e063961d37d54d706e4958a0edc75a
+
+COCOAPODS: 1.7.0.rc.1

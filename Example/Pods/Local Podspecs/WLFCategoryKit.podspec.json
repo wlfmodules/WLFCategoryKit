@@ -1,0 +1,22 @@
+{
+  "name": "WLFCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of WLFCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/liuw_flexi@163.com/WLFCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liuw_flexi@163.com": "liuw_flexi@163.com"
+  },
+  "source": {
+    "git": "https://github.com/liuw_flexi@163.com/WLFCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WLFCategoryKit/Classes/**/*"
+}

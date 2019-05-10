@@ -1,0 +1,6 @@
+framework module Pods_WLFCategoryKit_Example {
+  umbrella header "Pods-WLFCategoryKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
